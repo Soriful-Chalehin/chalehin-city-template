@@ -2,7 +2,9 @@
 ### This is an Open Sourse project, you can contribute as a contributer.
 <span> - Soriful Chalehin. </span>
 
-<p>live link of this repo: <a href=https://soriful-chalehin.github.io/chalehin-city-template/>visit</a></p>
+<img src="images/website-preview.jpg">
+
+<p>live link of this repo: <a href=https://soriful-chalehin.github.io/chalehin-city-template/>here</a></p>
 
 ## Contact me:
 <ul>
